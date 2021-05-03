@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../dashboard-frontend"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
